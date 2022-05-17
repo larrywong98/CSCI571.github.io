@@ -410,6 +410,11 @@ section {
   font-size: 34px;
   color: #2c4964;
 }
+/* .about .content h4 {
+  font-weight: 500;
+  font-size: 34px;
+  color: #2c4964;
+} */
 .about .content p {
   margin-bottom: 0;
 }
@@ -871,7 +876,7 @@ section {
 # Contact
 --------------------------------------------------------------*/
 .contact .contact-about h3 {
-  font-size: 36px;
+  font-size: 25px;
   margin: 0 0 10px 0;
   padding: 0;
   line-height: 1;
@@ -881,7 +886,7 @@ section {
   color: #509aef;
 }
 .contact .contact-about p {
-  font-size: 14px;
+  font-size: 20px;
   line-height: 24px;
   font-family: "Playfair Display", serif;
   color: #3c6387;
@@ -918,7 +923,8 @@ section {
   margin-right: 15px;
 }
 .contact .info p {
-  font-size: 14px;
+  font-size: 15px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
   margin: 0;
 }
 .contact .php-email-form .error-message {
