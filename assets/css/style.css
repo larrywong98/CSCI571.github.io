@@ -676,7 +676,8 @@ section {
 }
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(44, 73, 100, 0.6);
+  /* background: rgba(44, 73, 100, 0.9); */
+  background: rgba(0, 0, 0, 0.9);
   position: absolute;
   left: 30px;
   right: 30px;
@@ -924,7 +925,8 @@ section {
 }
 .contact .info p {
   font-size: 15px;
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  font-family: "Playfair Display", serif;
+  /* font-family: "Comic Sans MS", "Comic Sans", cursive; */
   margin: 0;
 }
 .contact .php-email-form .error-message {
