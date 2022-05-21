@@ -62,6 +62,16 @@
             this.nextElementSibling.classList.toggle('dropdown-active')
         }
     }, true)
+
+    window.addEventListener('load', () => {
+        if (window.location.hash) {
+          if (select(window.location.hash)) {
+            scrollto(window.location.hash)
+          }
+        }
+      });
+    
+
     
 
 
