@@ -13,6 +13,10 @@ body {
   color: #5a656e;
 }
 
+.hide{
+  display:none;
+}
+
 a {
   color: #509aef;
   text-decoration: none;
@@ -1019,3 +1023,4 @@ section {
   text-align: center;
   font-size: 13px;
 }
+
